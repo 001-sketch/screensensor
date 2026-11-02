@@ -34,3 +34,5 @@ Use bright, even lighting and keep your hand about 40-80 cm from the camera. The
 The app intentionally controls only one hand and uses a low-complexity tracking model so it can run on an older dual-core laptop.
 
 The recording mode saves landmark coordinates only; it does not save camera video or upload anything.
+
+Author: Lime
