@@ -35,4 +35,4 @@ The app intentionally controls only one hand and uses a low-complexity tracking 
 
 The recording mode saves landmark coordinates only; it does not save camera video or upload anything.
 
-Author: Lime
+Author: Lime.
